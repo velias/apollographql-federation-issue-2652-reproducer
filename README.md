@@ -25,7 +25,7 @@ query Me {
   me
 }
 ```
-4. check console in gateway terminal 1, should be something like:
+4. check console in gateway terminal 2, should be something like:
 ```
 yarn run v1.22.19
 $ node index.js
